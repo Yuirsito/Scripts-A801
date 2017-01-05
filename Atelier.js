@@ -1,20 +1,20 @@
 // ==UserScript==
-// @name        Atelier801 - Menú personalizado
+// @name        Atelier801 - MenÃº personalizado
 // @include     http://atelier801.com/*
 // @version     0.1
-// @author      Yuir
+// @author      Jordynl
 // ==/UserScript==
 
 var menu = {
     "Favoritos de ES": [
-        ["[Guía] Aventuras 2017", "http://atelier801.com/topic?f=6&t=818593"],
+        ["[GuÃ­a] Aventuras 2017", "http://atelier801.com/topic?f=6&t=818593"],
         ["Preguntas y Respuestas", "http://atelier801.com/topic?f=6&t=1125"],
-        ["Últimos cambios, actualizaciones y anuncios", "http://atelier801.com/topic?f=6&t=825660"],
-        ["[Reacciones] Últimos cambios, actualizaciones y anuncios", "http://atelier801.com/topic?f=6&t=12937"],
-        ["Códigos hexadecimales de colores de Transformice", "http://atelier801.com/topic?f=6&t=791285"],
+        ["Ãšltimos cambios, actualizaciones y anuncios", "http://atelier801.com/topic?f=6&t=825660"],
+        ["[Reacciones] Ãšltimos cambios, actualizaciones y anuncios", "http://atelier801.com/topic?f=6&t=12937"],
+        ["CÃ³digos hexadecimales de colores de Transformice", "http://atelier801.com/topic?f=6&t=791285"],
         ["Helpers ES", "http://atelier801.com/topic?f=6&t=412884"],
         ["[API] Cheese For Mice", "http://atelier801.com/topic?f=6&t=828017"],
-        ["[Guía] Sanciones", "http://atelier801.com/topic?f=6&t=841048"],
+        ["[GuÃ­a] Sanciones", "http://atelier801.com/topic?f=6&t=841048"],
         ["[Utilidad] Thread Manager", "http://atelier801.com/topic?f=6&t=191443"],
     ],
     "Favoritos de EN": [
@@ -23,12 +23,12 @@ var menu = {
         ["2017 Events Guidelines & Discussions", "http://atelier801.com/topic?f=6&t=840811"],
         ["Map Editor Q&A", "http://atelier801.com/topic?f=6&t=1908"],
     ],
-    "Enlaces útiles": [
+    "Enlaces Ãºtiles": [
         ["The backgrounds Editor", "http://hybinkunduz.com/editor/"],
         ["TFM Tools", "http://derpolino.shost.ca/"],
         ["Cj Objects", "http://cjobjects.makinit.nl/"],
         ["Viprin", "http://adamay000.github.io/vde/index.html"],
-        ["Imágenes de TFM", "http://outil.derpolino.shost.ca/imagetfm/"],
+        ["ImÃ¡genes de TFM", "http://outil.derpolino.shost.ca/imagetfm/"],
         ["Dressroom", "http://fewfre.com/projects/tfm_dressroom/dressroom.swf"],
         ["Colores de pieles", "http://www.area801.com/p/cores-pelos.html"],
     ]
